@@ -1,0 +1,8 @@
+name: yns-server-plugin-0.0.1
+version: ${project.version}
+main: kudoserver.kudoserv.KudoServ
+api-version: 1.16
+authors: [ Dunchen, CommandBlock070, LClarified ]
+description: Made for yns
+depend: [Vault]
+commands :
